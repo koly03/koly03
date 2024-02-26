@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Computer Science at Aix-Marseille University
 
 -    Junior Java Developer
--    Junior JavaScript Developer 
+-    Junior JavaScript Developer
+-    Junior Front End  Developer 
